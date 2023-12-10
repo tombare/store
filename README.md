@@ -1,1 +1,1 @@
-# store
+# Personal store
